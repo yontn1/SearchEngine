@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/orflVau9llc/maxresdefault.jpg");/*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PCEiZ2y3B8DhIQsokW8sjafiXVY8ZQf8RSN_xOuvr70Mbj91Mw");https://i.pinimg.com/736x/13/c6/f7/13c6f7a39d0c4792a1d4e63bd03810e6--rainbow-wallpaper-unicorn.jpg");*/
+    background-color: #65F9E6;
+}
+. {
+    font-family: 'helvetica neue';
+    box-sizing: border-box;
+}
+
+#searchbox {
+    position: center;
+    background-color: #FDF6E4;
+    width: 600px;
+    color: #EA90E9;
+    border: 2px solid #EA90E9;
+    border-radius: 5px;
+    font-style: bold;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.12), 0 2px rgba(0, 0, 0, 0.24);
+
+}
+#searchbutton {
+    position: center;
+    width: 60px;
+    border: 2px solid #EA90E9;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #EA90E9;
+}
+input{
+    padding: 10px 10px;
+    font-weight: 20;
+    width: 200px;
+    border: none;
+    outline: none;
+    outline: none;
+    font-size: 14px;
+    color: #666;
+}
+#responsesize{
+    background: #EA90E9;
+    width: 100px;
+    border: 20px;
+    border-radius: 5px;
+    font-size: 13px;
+    font-style: italic;
+    color: #9D45BF;
+}
+#urllist {
+    width: 620px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #EA90E9;
+    background: #FDF6E4;
+    font-size: 20px;
+    color: #9D45BF;
+
+}
